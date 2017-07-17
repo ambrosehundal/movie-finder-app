@@ -1,2 +1,2 @@
-# Everyday-Aesthetics
-Online menu for Everyday Aesthetics, written in PHP, HTML/CSS
+# Movie-finder-app
+Created a movie finder application in JavaScript/Jquery that fetches data from The Movie Database API
